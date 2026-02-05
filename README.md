@@ -22,13 +22,3 @@ La página web muestra contenido estático con una estructura básica típica de
 - **CSS3** – Estilos y diseño visual  
 
 ---
-
-## 📁 Estructura del proyecto
-
-  proyecto-pagina-web/
-  ├── index.html
-  ├── css/
-  │ └── styles.css
-  ├── img/
-  │ └── (imágenes del proyecto)
-  └── README.md
